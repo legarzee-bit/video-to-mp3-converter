@@ -1,0 +1,6 @@
+
+.next/
+tsconfig.tsbuildinfo
+.env.local
+
+src/app/api/health/route.ts.backup
